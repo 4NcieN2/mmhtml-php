@@ -1,0 +1,26 @@
+{
+    "name": "4NcieN2/mmhtml-php",
+    "description": "PHP Library to parse MIME-HTML(Archive HTML files)",
+    "minimum-stability": "stable",
+    "keywords": ["mht", "MIME-HTML", "MMHTML", "MHTML"],
+    "homepage": "https://github.com/4NcieN2/mmhtml-php",
+    "support": {
+        "email": "romaslmd@gmail.com",
+        "issues": "https://github.com/4NcieN2/mmhtml-php/issues",
+        "wiki": "https://github.com/4NcieN2/mmhtml-php/wiki",
+        "source": "https://github.com/4NcieN2/mmhtml-php"
+    },
+    "authors": [
+        {
+            "name": "Roman Solomud",
+            "homepage": "https://github.com/4NcieN2",
+            "role": "PHP Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    },
+    "require-dev": {
+        "codeclimate/php-test-reporter": "dev-master"
+    }
+}
